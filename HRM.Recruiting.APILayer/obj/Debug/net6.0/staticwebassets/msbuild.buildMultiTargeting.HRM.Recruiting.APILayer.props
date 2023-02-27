@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HRM.Recruiting.APILayer.props" />
+</Project>

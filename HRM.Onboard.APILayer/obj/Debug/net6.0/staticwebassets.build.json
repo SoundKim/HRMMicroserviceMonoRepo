@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HnMXTkuBCsBSvcWYfMEIpGAGk3MPQZQ6d8LhpPkxuaA=",
+  "Source": "HRM.Onboard.APILayer",
+  "BasePath": "_content/HRM.Onboard.APILayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

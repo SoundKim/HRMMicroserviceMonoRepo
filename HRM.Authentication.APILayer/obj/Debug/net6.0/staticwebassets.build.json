@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RusneFxoc9vF5638+SCPWxOUiOEpawPGRO0xNbH8EVU=",
+  "Source": "HRM.Authentication.APILayer",
+  "BasePath": "_content/HRM.Authentication.APILayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

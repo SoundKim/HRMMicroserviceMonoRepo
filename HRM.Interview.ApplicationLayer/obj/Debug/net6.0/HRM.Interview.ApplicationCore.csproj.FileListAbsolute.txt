@@ -1,0 +1,14 @@
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\bin\Debug\net6.0\HRM.Interview.ApplicationCore.deps.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\bin\Debug\net6.0\HRM.Interview.ApplicationCore.runtimeconfig.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\bin\Debug\net6.0\HRM.Interview.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\bin\Debug\net6.0\HRM.Interview.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.AssemblyInfo.cs
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\refint\HRM.Interview.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\HRM.Interview.ApplicationCore.genruntimeconfig.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Interview.ApplicationLayer\obj\Debug\net6.0\ref\HRM.Interview.ApplicationCore.dll

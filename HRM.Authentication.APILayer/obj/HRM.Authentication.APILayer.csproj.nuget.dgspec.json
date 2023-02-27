@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.APILayer\\HRM.Authentication.APILayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.APILayer\\HRM.Authentication.APILayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.APILayer\\HRM.Authentication.APILayer.csproj",
+        "projectName": "HRM.Authentication.APILayer",
+        "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.APILayer\\HRM.Authentication.APILayer.csproj",
+        "packagesPath": "C:\\Users\\drsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.APILayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.Infrastructure\\HRM.Authentication.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.Infrastructure\\HRM.Authentication.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.ApplicationCore\\HRM.Authentication.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.ApplicationCore\\HRM.Authentication.ApplicationCore.csproj",
+        "projectName": "HRM.Authentication.ApplicationCore",
+        "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.ApplicationCore\\HRM.Authentication.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\drsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.Infrastructure\\HRM.Authentication.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.Infrastructure\\HRM.Authentication.Infrastructure.csproj",
+        "projectName": "HRM.Authentication.Infrastructure",
+        "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.Infrastructure\\HRM.Authentication.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\drsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.ApplicationCore\\HRM.Authentication.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.ApplicationCore\\HRM.Authentication.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

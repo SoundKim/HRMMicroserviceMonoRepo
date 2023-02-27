@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.APILayer\\HRM.Interview.APILayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.APILayer\\HRM.Interview.APILayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.APILayer\\HRM.Interview.APILayer.csproj",
+        "projectName": "HRM.Interview.APILayer",
+        "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.APILayer\\HRM.Interview.APILayer.csproj",
+        "packagesPath": "C:\\Users\\drsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.APILayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.Infrastructure\\HRM.Interview.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.Infrastructure\\HRM.Interview.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.ApplicationLayer\\HRM.Interview.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.ApplicationLayer\\HRM.Interview.ApplicationCore.csproj",
+        "projectName": "HRM.Interview.ApplicationCore",
+        "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.ApplicationLayer\\HRM.Interview.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\drsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.ApplicationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.Infrastructure\\HRM.Interview.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.Infrastructure\\HRM.Interview.Infrastructure.csproj",
+        "projectName": "HRM.Interview.Infrastructure",
+        "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.Infrastructure\\HRM.Interview.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\drsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.ApplicationLayer\\HRM.Interview.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Interview.ApplicationLayer\\HRM.Interview.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

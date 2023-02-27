@@ -1,0 +1,17 @@
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\bin\Debug\net6.0\HRM.Recruiting.Infrastructure.deps.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\bin\Debug\net6.0\HRM.Recruiting.Infrastructure.runtimeconfig.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\bin\Debug\net6.0\HRM.Recruiting.Infrastructure.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\bin\Debug\net6.0\HRM.Recruiting.Infrastructure.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\bin\Debug\net6.0\HRM.Recruiting.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\bin\Debug\net6.0\HRM.Recruiting.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.AssemblyInfo.cs
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.csproj.CopyComplete
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\refint\HRM.Recruiting.Infrastructure.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\HRM.Recruiting.Infrastructure.genruntimeconfig.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.Infrastructure\obj\Debug\net6.0\ref\HRM.Recruiting.Infrastructure.dll

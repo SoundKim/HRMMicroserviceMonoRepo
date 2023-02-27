@@ -1,0 +1,14 @@
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\bin\Debug\net6.0\HRM.Onboard.ApplicationCore.deps.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\bin\Debug\net6.0\HRM.Onboard.ApplicationCore.runtimeconfig.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\bin\Debug\net6.0\HRM.Onboard.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\bin\Debug\net6.0\HRM.Onboard.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.AssemblyInfo.cs
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\refint\HRM.Onboard.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\HRM.Onboard.ApplicationCore.genruntimeconfig.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.ApplicationCore\obj\Debug\net6.0\ref\HRM.Onboard.ApplicationCore.dll
