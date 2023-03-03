@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  hrm.recruiting.apilayer:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "51058:80"
+
+  hrm.interview.apilayer:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "51059:80"
+
+  hrm.onboard.apilayer:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "51060:80"
+

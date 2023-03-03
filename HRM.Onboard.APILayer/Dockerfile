@@ -3,6 +3,9 @@
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
 EXPOSE 80
+ENV OnboardAPIDocker="Data Source=172.29.0.1,1433;Initial Catalog=master;Persist Security Info=True;User ID=sa;Password=Admin@1234;TrustServerCertificate=True"
+
+
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src

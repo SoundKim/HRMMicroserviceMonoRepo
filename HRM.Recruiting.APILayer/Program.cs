@@ -14,7 +14,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers(); //For WebAPI
 builder.Services.AddDbContext<RecruitingDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("RecruitingDb"));
+    options.UseSqlServer(Environment.GetEnvironmentVariable("RecruitingAPIDocker"));
+    //options.UseSqlServer(builder.Configuration.GetConnectionString("RecruitingDb"));
 });
 
 //DI for repositories
@@ -42,6 +43,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
+app.UseAuthorization();
 app.UseRouting();   //middleWare allows to use routing
 app.UseCors();
 app.UseEndpoints(endpoints => { endpoints.MapControllers(); }); //this will map the request to the particular controller
@@ -53,7 +55,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
 
 app.Run();
 

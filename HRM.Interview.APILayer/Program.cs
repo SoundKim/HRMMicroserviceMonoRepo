@@ -17,7 +17,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<InterviewDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("InterviewDb"));
+    options.UseSqlServer(Environment.GetEnvironmentVariable("InterviewAPIDocker"));
+    //options.UseSqlServer(builder.Configuration.GetConnectionString("InterviewDb"));
 });
 
 //DI for repositories
