@@ -1,0 +1,14 @@
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\bin\Release\net6.0\HRM.Recruiting.ApplicationCore.deps.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\bin\Release\net6.0\HRM.Recruiting.ApplicationCore.runtimeconfig.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\bin\Release\net6.0\HRM.Recruiting.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\bin\Release\net6.0\HRM.Recruiting.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.AssemblyInfo.cs
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\refint\HRM.Recruiting.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\HRM.Recruiting.ApplicationCore.genruntimeconfig.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Recruiting.ApplicationLayer\obj\Release\net6.0\ref\HRM.Recruiting.ApplicationCore.dll

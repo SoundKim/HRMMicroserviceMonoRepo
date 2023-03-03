@@ -19,7 +19,7 @@ namespace HRM.Authentication.ApplicationCore.Data
 
         public AuthenticationDbContext()
         {
-            dbConnection = new SqlConnection("Data Source=localhost,1433;Initial Catalog=master;Persist Security Info=True;User ID=sa;Password=Admin@1234;TrustServerCertificate=True");
+            dbConnection = new SqlConnection("Data Source=172.29.0.1,1433;Initial Catalog=master;Persist Security Info=True;User ID=sa;Password=Admin@1234;TrustServerCertificate=True");
         }
 
         public IDbConnection GetConnection()

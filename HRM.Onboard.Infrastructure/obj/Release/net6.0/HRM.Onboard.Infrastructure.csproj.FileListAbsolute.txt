@@ -1,0 +1,17 @@
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\bin\Release\net6.0\HRM.Onboard.Infrastructure.deps.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\bin\Release\net6.0\HRM.Onboard.Infrastructure.runtimeconfig.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\bin\Release\net6.0\HRM.Onboard.Infrastructure.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\bin\Release\net6.0\HRM.Onboard.Infrastructure.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\bin\Release\net6.0\HRM.Onboard.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\bin\Release\net6.0\HRM.Onboard.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.AssemblyInfo.cs
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.csproj.CopyComplete
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\refint\HRM.Onboard.Infrastructure.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\HRM.Onboard.Infrastructure.genruntimeconfig.cache
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\HRM.Onboard.Infrastructure\obj\Release\net6.0\ref\HRM.Onboard.Infrastructure.dll

@@ -1,4 +1,5 @@
-﻿using HRM.Authentication.Infrastructure.Contract.Service;
+﻿using HRM.Authentication.APILayer.Model;
+using HRM.Authentication.Infrastructure.Contract.Service;
 using HRM.Authentication.Infrastructure.Model.Request;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,10 +11,13 @@ namespace HRM.Authentication.APILayer.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserServiceAsync userServiceAsync;
+        private readonly IConfiguration config;
+        private readonly HttpClient httpClient = new HttpClient();
 
-        public UserController(IUserServiceAsync _userServiceAsync)
+        public UserController(IUserServiceAsync _userServiceAsync, IConfiguration _config)
         {
             userServiceAsync = _userServiceAsync;
+            config = _config;
         }
 
         [HttpPost]
@@ -60,5 +64,12 @@ namespace HRM.Authentication.APILayer.Controllers
             return Ok("Deleted");
         }
 
+        [HttpGet("Employee")]
+        public async Task<IActionResult> GetEmployee()
+        {
+            httpClient.BaseAddress = new Uri(config.GetSection("OnboardApiURL").Value);
+            var result = await httpClient.GetFromJsonAsync<IEnumerable<EmployeeModel>>(httpClient.BaseAddress + "Employee");
+            return Ok(result);
+        }
     }
 }

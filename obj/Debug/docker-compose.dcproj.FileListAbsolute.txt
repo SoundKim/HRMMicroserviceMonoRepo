@@ -49,3 +49,14 @@ C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Onboard.Infras
 C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Onboard.APILayer.pdb
 C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Onboard.ApplicationCore.pdb
 C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Onboard.Infrastructure.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.APILayer.deps.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.APILayer.runtimeconfig.json
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.APILayer.exe
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.APILayer.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.ApplicationCore.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.Infrastructure.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\Dapper.dll
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.APILayer.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.ApplicationCore.pdb
+C:\Users\drsor\source\repos\HRMMicroserviceMonoRepo\bin\Debug\HRM.Authentication.Infrastructure.pdb

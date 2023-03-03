@@ -19,3 +19,10 @@ services:
     ports:
       - "51060:80"
 
+
+  hrm.authentication.apilayer:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "51061:80"
+

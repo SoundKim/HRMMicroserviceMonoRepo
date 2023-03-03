@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5y7CVEiMKx2k9hsvlet9szd7icOlYEitrUiJSt0pyorCV2qa4QCCA/BP8yXb6+HA9EDvZ8rDN3jtaB3SxNDmxA==",
+  "dgSpecHash": "Dt7IvI6GvsG8OWreTr4muJ8lX4WNNhyBnDn1xM/jaARL4Imh9kDS7kO28CPEq0D0Y18cfWP+QHdaW/ppgOMSRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\drsor\\source\\repos\\HRMMicroserviceMonoRepo\\HRM.Authentication.APILayer\\HRM.Authentication.APILayer.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\drsor\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\drsor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\drsor\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\drsor\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\drsor\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\drsor\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\drsor\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

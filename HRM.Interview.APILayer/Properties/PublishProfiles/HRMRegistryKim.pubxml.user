@@ -5,7 +5,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <History>False|2023-03-02T20:11:15.2171275Z;</History>
-    <LastFailureDetails>2023-03-02T20:11:15.2171275Z|checkContainerPrereq</LastFailureDetails>
+    <History>True|2023-03-03T06:34:49.2296515Z;False|2023-03-02T15:11:15.2171275-05:00;</History>
+    <LastFailureDetails>
+    </LastFailureDetails>
   </PropertyGroup>
 </Project>

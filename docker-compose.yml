@@ -21,3 +21,10 @@ services:
       context: .
       dockerfile: HRM.Onboard.APILayer/Dockerfile
 
+
+  hrm.authentication.apilayer:
+    image: ${DOCKER_REGISTRY-}hrmauthenticationapilayer
+    build:
+      context: .
+      dockerfile: HRM.Authentication.APILayer/Dockerfile
+
